@@ -20,5 +20,6 @@ npm install stylus jade
 npm install -g nodemon
 ```
 
-Run the application (Express server listening on `port 3000`)
+Run the application (Express server listening on `port 3000)
+
 `nodemon app.js`
