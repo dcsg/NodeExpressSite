@@ -13,7 +13,8 @@ First clone the git repository
 
 Then install the requried packages
 
-``` cd NodeExpressSite
+```
+cd NodeExpressSite
 npm install express
 npm install stylus jade
 npm install -g nodemon
